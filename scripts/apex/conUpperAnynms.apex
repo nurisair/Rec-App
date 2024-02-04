@@ -1,0 +1,1 @@
+ClassToTest.conUpper('nuri', 'ozturk');
